@@ -1,5 +1,6 @@
+/__pycache__/
 /img/
-/log/
+/logs/
 /sticker/
 /test/
 /token.txt
